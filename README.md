@@ -1,4 +1,4 @@
-**Netflix Shows & Movies**
+**Ex 2 Netflix Shows & Movies**
 
 # NAME : ALDRIN.S
 # REG NO : 212223240005
